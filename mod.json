@@ -1,0 +1,16 @@
+{
+  "geode": "5.0.0",
+  "gd": {
+    "win": "2.2074",
+    "android": "2.2074",
+    "mac": "2.2074",
+    "ios": "2.2074"
+  },
+  "id": "gustavo.rhythm-hud",
+  "name": "Gustavo Rhythm HUD",
+  "version": "v0.1.0",
+  "developer": "GustavoTweaks",
+  "description": "Minimal one-disc timing HUD prototype for Geometry Dash.",
+  "tags": ["gameplay"],
+  "dependencies": {}
+}
